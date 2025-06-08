@@ -15,4 +15,5 @@ int main(){
     cout << "Enter A Number: ";
     cin >> number;
     cout << "Factorial of " << number << " Is: " << factorial(number) << endl;
+    return 0;
 }
